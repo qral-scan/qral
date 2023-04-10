@@ -21,23 +21,23 @@ function Navbar() {
     const [button, setButton] = useState(true);
 
     const [homeClick, setHomeClick] = useState(false);
-    const [servicesClick, setServicesClick] = useState(false);
-    const [productsClick, setProductsClick] = useState(false);
+    const [privacyClick, setPrivacyClick] = useState(false);
+    const [termsClick, setTermsClick] = useState(false);
 
     const handleHomeClick = () => {
         setHomeClick(true);
-        setProductsClick(false);
-        setServicesClick(false);
+        setPrivacyClick(false);
+        setTermsClick(false);
     }
-    const handleServicesClick = () => {
+    const handlePrivacyClick = () => {
         setHomeClick(false);
-        setProductsClick(false);
-        setServicesClick(true);
+        setPrivacyClick(true);
+        setTermsClick(false);
     }
-    const handleProductsClick = () => {
+    const handleTermsClick = () => {
         setHomeClick(false);
-        setProductsClick(true);
-        setServicesClick(false);
+        setPrivacyClick(false);
+        setTermsClick(true);
     }
 
     const handleClick = () =>  setClick(!click);
@@ -66,44 +66,24 @@ function Navbar() {
                 <NavbarContainer>
                     <NavLogo to='/'> 
                         <NavIcon />
-                            ULTRA
+                            QRal
                     </NavLogo>
                     <HamburgerIcon onClick={handleClick}>
                         {click ? <FaTimes /> : <FaBars />}
                     </HamburgerIcon>
                     <NavMenu onClick={handleClick} click={click} >
-                        <NavItem onClick={handleHomeClick} homeClick={homeClick}>
-                            <NavLinks to='/' onClick={closeMobileMenu}>
-                                Home
+                        <NavItem onClick={handlePrivacyClick} privacyClick={privacyClick}>
+                            <NavLinks to='/privacy' onClick={closeMobileMenu}>
+                                Privacy Policy
                             </NavLinks>
                         </NavItem>
                     
                     
-                        <NavItem onClick={handleServicesClick} servicesClick={servicesClick}>
-                            <NavLinks to='/services' onClick={closeMobileMenu}>
-                                Services
+                        <NavItem onClick={handleTermsClick} termsClick={termsClick}>
+                            <NavLinks to='/terms' onClick={closeMobileMenu}>
+                                Terms And Services
                             </NavLinks>
                         </NavItem>
-                    
-                    
-                        <NavItem onClick={handleProductsClick} productsClick={productsClick}>
-                            <NavLinks to='/Products' onClick={closeMobileMenu}>
-                                Products
-                            </NavLinks>
-                        </NavItem>
-
-                        <NavItemBtn >
-                            {button ? (
-                                <NavBtnLink to='/sign-up'>
-                                    <Button primary>SIGN UP</Button>
-                                </NavBtnLink>
-                            ) : (
-                                <NavBtnLink to='/sign-up'>
-                                    <Button onClick={closeMobileMenu} fontBig primary>SIGN UP</Button>
-                                </NavBtnLink>
-                            )}
-                            
-                        </NavItemBtn>
                     </NavMenu>
                 </NavbarContainer>
             </Nav>

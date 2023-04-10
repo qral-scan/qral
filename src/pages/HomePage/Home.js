@@ -6,10 +6,6 @@ const Home = () => {
     return (
         <>
             <InfoSection {...homeObjOne} />
-            <InfoSection {...homeObjThree} />
-            <InfoSection {...homeObjTwo} />
-            <Pricing />
-            <InfoSection {...homeObjFour} />
         </>
     )
 }
