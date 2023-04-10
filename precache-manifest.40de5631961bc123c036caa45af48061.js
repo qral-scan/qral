@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fec7f818ba9b4c5a15ddef9bc42da77",
+    "revision": "14339c9fcea01608ca5d567c161395f9",
     "url": "/qral/index.html"
   },
   {
