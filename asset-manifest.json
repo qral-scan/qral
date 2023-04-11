@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qral/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/qral/static/js/main.c796f465.chunk.js",
-    "main.js.map": "/qral/static/js/main.c796f465.chunk.js.map",
+    "main.js": "/qral/static/js/main.3c568fc8.chunk.js",
+    "main.js.map": "/qral/static/js/main.3c568fc8.chunk.js.map",
     "runtime-main.js": "/qral/static/js/runtime-main.7cf94608.js",
     "runtime-main.js.map": "/qral/static/js/runtime-main.7cf94608.js.map",
     "static/js/2.02020f8d.chunk.js": "/qral/static/js/2.02020f8d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4840e9b0.chunk.js": "/qral/static/js/3.4840e9b0.chunk.js",
     "static/js/3.4840e9b0.chunk.js.map": "/qral/static/js/3.4840e9b0.chunk.js.map",
     "index.html": "/qral/index.html",
-    "precache-manifest.40de5631961bc123c036caa45af48061.js": "/qral/precache-manifest.40de5631961bc123c036caa45af48061.js",
+    "precache-manifest.eb3fb0238be7e06f655dcdb1b633400f.js": "/qral/precache-manifest.eb3fb0238be7e06f655dcdb1b633400f.js",
     "service-worker.js": "/qral/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/qral/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.02020f8d.chunk.js.LICENSE.txt": "/qral/static/js/2.02020f8d.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.7cf94608.js",
     "static/js/2.02020f8d.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c796f465.chunk.js"
+    "static/js/main.3c568fc8.chunk.js"
   ]
 }
