@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/qral/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/qral/static/js/main.cf6679a5.chunk.js",
-    "main.js.map": "/qral/static/js/main.cf6679a5.chunk.js.map",
+    "main.js": "/qral/static/js/main.90862c5d.chunk.js",
+    "main.js.map": "/qral/static/js/main.90862c5d.chunk.js.map",
     "runtime-main.js": "/qral/static/js/runtime-main.3b6739db.js",
     "runtime-main.js.map": "/qral/static/js/runtime-main.3b6739db.js.map",
     "static/js/2.c0636f06.chunk.js": "/qral/static/js/2.c0636f06.chunk.js",
     "static/js/2.c0636f06.chunk.js.map": "/qral/static/js/2.c0636f06.chunk.js.map",
     "index.html": "/qral/index.html",
-    "precache-manifest.32f7af80956bdc2ae122f1319dc275fa.js": "/qral/precache-manifest.32f7af80956bdc2ae122f1319dc275fa.js",
+    "precache-manifest.4520450719167523cf1c521d1c2539d4.js": "/qral/precache-manifest.4520450719167523cf1c521d1c2539d4.js",
     "service-worker.js": "/qral/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/qral/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.c0636f06.chunk.js.LICENSE.txt": "/qral/static/js/2.c0636f06.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.3b6739db.js",
     "static/js/2.c0636f06.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.cf6679a5.chunk.js"
+    "static/js/main.90862c5d.chunk.js"
   ]
 }
