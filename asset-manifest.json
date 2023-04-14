@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/qral/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/qral/static/js/main.9c897eaa.chunk.js",
-    "main.js.map": "/qral/static/js/main.9c897eaa.chunk.js.map",
-    "runtime-main.js": "/qral/static/js/runtime-main.7cf94608.js",
-    "runtime-main.js.map": "/qral/static/js/runtime-main.7cf94608.js.map",
-    "static/js/2.bcf85b49.chunk.js": "/qral/static/js/2.bcf85b49.chunk.js",
-    "static/js/2.bcf85b49.chunk.js.map": "/qral/static/js/2.bcf85b49.chunk.js.map",
-    "static/js/3.4840e9b0.chunk.js": "/qral/static/js/3.4840e9b0.chunk.js",
-    "static/js/3.4840e9b0.chunk.js.map": "/qral/static/js/3.4840e9b0.chunk.js.map",
+    "main.js": "/qral/static/js/main.ad0be20d.chunk.js",
+    "main.js.map": "/qral/static/js/main.ad0be20d.chunk.js.map",
+    "runtime-main.js": "/qral/static/js/runtime-main.c05bb7c6.js",
+    "runtime-main.js.map": "/qral/static/js/runtime-main.c05bb7c6.js.map",
+    "static/js/2.731bf54a.chunk.js": "/qral/static/js/2.731bf54a.chunk.js",
+    "static/js/2.731bf54a.chunk.js.map": "/qral/static/js/2.731bf54a.chunk.js.map",
+    "static/js/3.3f115779.chunk.js": "/qral/static/js/3.3f115779.chunk.js",
+    "static/js/3.3f115779.chunk.js.map": "/qral/static/js/3.3f115779.chunk.js.map",
     "index.html": "/qral/index.html",
-    "precache-manifest.f2ebccb0929cae5d735fba77d0c435e0.js": "/qral/precache-manifest.f2ebccb0929cae5d735fba77d0c435e0.js",
+    "precache-manifest.4c3b57762521d9fd10ccda6377ac0b39.js": "/qral/precache-manifest.4c3b57762521d9fd10ccda6377ac0b39.js",
     "service-worker.js": "/qral/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/qral/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.bcf85b49.chunk.js.LICENSE.txt": "/qral/static/js/2.bcf85b49.chunk.js.LICENSE.txt",
+    "static/js/2.731bf54a.chunk.js.LICENSE.txt": "/qral/static/js/2.731bf54a.chunk.js.LICENSE.txt",
     "static/media/navbar_icon.svg": "/qral/static/media/navbar_icon.23889f3b.svg",
     "static/media/privacy.pdf": "/qral/static/media/privacy.7ee23812.pdf",
     "static/media/profile.jpg": "/qral/static/media/profile.8a701d40.jpg",
@@ -23,9 +23,9 @@
     "static/media/terms.pdf": "/qral/static/media/terms.aec4c514.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cf94608.js",
-    "static/js/2.bcf85b49.chunk.js",
+    "static/js/runtime-main.c05bb7c6.js",
+    "static/js/2.731bf54a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.9c897eaa.chunk.js"
+    "static/js/main.ad0be20d.chunk.js"
   ]
 }
