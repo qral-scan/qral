@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "939d9cacaa7d8eb9113e03d564e39e08",
+    "revision": "5261f6421bd7bdd06e6b861f4624d6ab",
     "url": "/qral/index.html"
   },
   {
-    "revision": "10f3d2591388cf4a0454",
+    "revision": "f706715618790c286943",
     "url": "/qral/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qral/static/js/2.c0636f06.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10f3d2591388cf4a0454",
-    "url": "/qral/static/js/main.90862c5d.chunk.js"
+    "revision": "f706715618790c286943",
+    "url": "/qral/static/js/main.ef0ecfde.chunk.js"
   },
   {
     "revision": "7b9c9c7732b7d44e1105",
